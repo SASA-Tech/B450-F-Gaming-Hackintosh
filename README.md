@@ -59,9 +59,9 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 
 AMD Power Gadget: https://github.com/trulyspinach/SMCAMDProcessor/releases
 
-## Extras
+# Extras
 
-# Cambiare modello CPU in "About This Mac" - macOS Big Sur:
+## Cambiare modello CPU in "About This Mac" - macOS Big Sur:
 
 In fase di scrittura...
 
