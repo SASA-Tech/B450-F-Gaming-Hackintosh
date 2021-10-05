@@ -24,9 +24,6 @@
 ## Di default la GUI di OC è impostata in 1920x1080.
 Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella Resources e scompattate quella che vi interessa.
 
-## NOTE:
-Kexts aggiornati alle ultime versioni
-
 # Impostazioni Bios
 
 ## Disabilita:
