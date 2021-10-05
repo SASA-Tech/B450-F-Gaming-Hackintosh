@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
 # Italian Repository 🇮🇹
-## macOS Big Sur/Monterey correttamente installato su ASUS ROG Strix B450 F-Gaming
+## macOS Big Sur correttamente installato su ASUS ROG Strix B450 F-Gaming
 
 | Componenti       | Modello                                 |
 | ---------------- | ----------------------------------------|
