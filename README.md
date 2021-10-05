@@ -38,8 +38,10 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 - OS type: Other
   
 # Dispositivo Screenshot
+![infodp0](./Screenshot/AboutThisMac.png)
 ![infodp1](./Screenshot/Peripherials.png)
 ![infodp2](./Screenshot/PCIe.png)
+![infodp3](./Screenshot/PCIe2.png)
 
 # Cosa funziona e cosa no:
 - [x] Nvidia GeForce GT 730
