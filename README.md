@@ -50,6 +50,8 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 - [x] Intel I211 Gigabit LAN
 - [x] NVRAM
 - [x] Avvio Windows da OpenCore
+- [x] SpeedStep / Sleep / Wake
+- [ ] iGPU Vega 8 Graphics
 
 ## Crediti
 
