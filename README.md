@@ -19,7 +19,7 @@
 | SMBIOS           | MacPro7,1 (solo se avete Nvidia Kepler) |
 | Bootloader       | OpenCore 0.7.4                          |
 
-![infodp0](./Screenshot/Mobo.png)
+![infodp0](./Screenshot/Mobo.PNG)
 ![infodp1](./Screenshot/AboutThisMac.png)
 
 ## Di default la GUI di OC è impostata in 1920x1080.
