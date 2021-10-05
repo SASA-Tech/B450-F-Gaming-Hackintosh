@@ -36,8 +36,6 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 - Above 4G decoding (se non lo trovate nel bios, aggiungete npci=2000 nei bootargs)
 - EHCI/XHCI Hand-off
 - OS type: Other
-
-## Impostazioni generiche, potresti non trovarne alcune.
   
 # Dispositivo Screenshot
 ![infodp1](./Screenshot/Peripherials.png)
