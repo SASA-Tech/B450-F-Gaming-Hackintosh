@@ -20,6 +20,9 @@
 | Bootloader       | OpenCore 0.7.4                          |
 
 ![infodp0](./Screenshot/AboutThisMac.png)
+
+## Mobo:
+
 ![infodp1](./Screenshot/Mobo.PNG)
 
 ## Di default la GUI di OC è impostata in 1920x1080.
