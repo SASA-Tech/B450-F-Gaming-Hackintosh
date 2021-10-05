@@ -19,7 +19,8 @@
 | SMBIOS           | MacPro7,1 (solo se avete Nvidia Kepler) |
 | Bootloader       | OpenCore 0.7.4                          |
 
-![infodp1](./Screenshot/Mobo.png)
+![infodp0](./Screenshot/Mobo.png)
+![infodp1](./Screenshot/AboutThisMac.png)
 
 ## Di default la GUI di OC è impostata in 1920x1080.
 Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella Resources e scompattate quella che vi interessa.
@@ -33,13 +34,11 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 
 ## Abilita:
 
-- Above 4G decoding (se non lo trovate nel bios, aggiungete npci=2000 nei bootargs)
+- Above 4G decoding (se non lo trovate nel bios, aggiungete npci=0x2000 nei bootargs)
 - EHCI/XHCI Hand-off
 - OS type: Other
   
 # Dispositivo Screenshot
-![infodp0](./Screenshot/AboutThisMac.png)
-![infodp1](./Screenshot/Peripherials.png)
 ![infodp2](./Screenshot/PCIe.png)
 ![infodp3](./Screenshot/PCIe2.png)
 
