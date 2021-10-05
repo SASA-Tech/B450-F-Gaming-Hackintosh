@@ -56,6 +56,6 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 - [Acidanthera](https://github.com/acidanthera) per OpenCore Bootloader
 - [Apple](https://apple.com) per macOS;
 - [HackintoshLifeIT](https://github.com/Hackintoshlifeit) Gruppo di supporto pre e post installazione
-- [Dortania](https://github.com/dortania)
+- [Dortania](https://github.com/dortania) per le guide Hackintosh
 
 # Se avete bisogno di aiuto contattateci su [Telegram](https://t.me/HackintoshLife_it)
