@@ -53,6 +53,10 @@ Se avete una risoluzione diversa, recatevi in EFI > OC, cancellate la cartella R
 - [x] SpeedStep / Sleep / Wake
 - [ ] iGPU Vega 8 Graphics
 
+# Post-Install
+
+AMD Power Gadget: https://github.com/trulyspinach/SMCAMDProcessor/releases
+
 ## Crediti
 
 - [Acidanthera](https://github.com/acidanthera) per OpenCore Bootloader
