@@ -35,7 +35,7 @@ If you have a different resolution, go to EFI> OC, delete the Resources folder a
 
 ## Enable:
 
-- Above 4G decoding (se non lo trovate nel bios, aggiungete npci=0x2000 nei bootargs)
+- Above 4G decoding (if you don't find it in the bios, add npci = 0x2000 in the bootargs)
 - EHCI/XHCI Hand-off
 - OS type: Other
   
